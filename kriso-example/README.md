@@ -32,6 +32,7 @@ Figma 디자인 시스템을 **Lit 웹 컴포넌트로 한 번만 구현**해서
 |---|---|---|
 | 1강 00장 | [개요와 준비](notes/1-00-setup.md) | 값은 원본 Variables(`tokens.json`)에서만 바꾼다 |
 | 1강 01장 | [Figma MCP 연결](notes/1-01-figma-mcp.md) | 같은 값을 Figma·코드에서 같은 이름표로 부른다 |
+| 1강 02장 | [토큰 양방향 잇기](notes/1-02-tokens.md) | 원본은 한 곳, 고쳤으면 게시(`npm run tokens`) |
 
 ## Figma 결과물
 
